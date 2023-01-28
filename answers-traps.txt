@@ -1,0 +1,9 @@
+a0,a1,a2,a3	a2
+
+no, nothing after the optimization from compiler
+
+0x630
+
+0x30
+
+HE110 World
